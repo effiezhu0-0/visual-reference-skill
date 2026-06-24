@@ -1,0 +1,6 @@
+interface:
+  display_name: "Reference Image Scraper"
+  short_description: "Collect reference images and build Figma slides"
+  default_prompt: "Use $reference-image-scraper to collect Pinterest and Behance reference images, make a PNG confirmation board, then create a 16:9 Figma presentation slide after approval."
+policy:
+  allow_implicit_invocation: true
