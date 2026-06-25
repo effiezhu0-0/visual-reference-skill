@@ -60,6 +60,11 @@ Skill 执行后会产出：
 | 类型 | 名称 | 说明 |
 |------|------|------|
 | 设计模板 | [Figma 情绪板模板](https://www.figma.com/design/xYlbfA0qLquW7Ht0PEcpXX/AI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%B0%9D%E8%AF%95?node-id=88-3&m=dev) | 确认看板与最终幻灯片的视觉规范 |
+| 规则文档 | `references/rules.md` | 采集、输出、视觉模板、Figma 与版权边界规则 |
+| 流程文档 | `references/workflow.md` | 分阶段执行流程、确认门、异常处理 |
+| 背景文档 | `references/overview.md` | Skill 背景、范围、核心概念 |
+| 录入标准 | `references/source-docs/skill-entry-standard.md` | 《录入Skill标准.pdf》的结构要求摘要 |
+| 验收样例 | `examples/input-01.md` / `examples/output-01.md` | 标准输入输出示例 |
 | Agent Skill | 内置浏览器（`browser:browser`） | 打开平台、搜索、点击、截图 |
 | Agent Skill | Figma MCP（`figma:figma-use`） | 创建可编辑情绪板 |
 | Python 依赖 | Pillow | 生成 `confirmation-board.png` |
@@ -99,7 +104,14 @@ reference-image-scraper/
 ├── README.md              # 本文件：给人看的说明
 ├── SKILL.md               # Agent 执行入口
 ├── references/            # 知识依据（规则、流程、背景）
+│   ├── overview.md
+│   ├── rules.md
+│   ├── workflow.md
+│   └── source-docs/
+│       └── skill-entry-standard.md
 ├── examples/              # 输入输出验收样例
+│   ├── input-01.md
+│   └── output-01.md
 ├── scripts/               # 确认看板生成脚本
 └── agents/openai.yaml     # Codex 运行配置
 ```
@@ -112,4 +124,3 @@ reference-images-<关键词>-YYYYMMDD/
 ├── manifest.json
 └── confirmation-board.png
 ```
-

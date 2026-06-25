@@ -11,6 +11,15 @@ metadata:
 
 Use this skill to collect reference images from Pinterest and Behance, preserve source metadata, save all chosen images into one folder, create a PNG confirmation board, and only after user approval build a 16:9 presentation slide in Figma.
 
+## Reference Files
+
+Read these files only when needed:
+
+- `references/overview.md`: background, scope, concepts, and visual direction.
+- `references/rules.md`: collection rules, output rules, manifest requirements, Figma rules, and rights boundaries.
+- `references/workflow.md`: detailed phased workflow, revision loop, and exception handling.
+- `examples/input-01.md` and `examples/output-01.md`: sample task and expected output format for QA or regression checks.
+
 ## Required Visual Template
 
 All PNG confirmation boards and final Figma slides MUST follow the user's fixed Figma template:
