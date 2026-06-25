@@ -4,13 +4,6 @@
 - 所属业务域：主站营销互动
 - 当前状态：进行中 50%
 
-## 作者
-
-- Effie Zhu
-- ERP：zhuruoyan1
-
-希望这个 skill 可以帮到你。
-
 ## 用途
 
 从 Pinterest、Behance、站酷等平台自动搜集视觉参考图，整理来源元数据，生成可审阅的确认看板，并在用户确认后输出可编辑的 Figma 视觉风格情绪板，用于设计调研、风格对齐和方案前期探索。
@@ -130,5 +123,7 @@ reference-images-<关键词>-YYYYMMDD/
 
 ## 作者
 
-Effie Zhu
-希望这个skill对你有帮助～
+- Effie Zhu
+- erp：zhuruoyan1
+
+希望这个 skill 可以帮到你。
