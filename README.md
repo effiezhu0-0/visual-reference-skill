@@ -2,11 +2,11 @@
 
 ## 基础信息
 
-- 提交人：effiezhu0-0
-- 维护人：effiezhu0-0
+- 提交人：朱若焉
+- 维护人：朱若焉
 - 来源：https://github.com/effiezhu0-0/visual-reference-skill
-- 所属业务域：多媒体内容域
-- 当前状态：进行中 v0.1
+- 所属业务域：主站营销互动
+- 当前状态：进行中 80%
 
 ## 用途
 
