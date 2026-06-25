@@ -4,7 +4,7 @@
 
 - 提交人：朱若焉
 - 维护人：朱若焉
-- 来源：https://github.com/effiezhu0-0/visual-reference-skill
+- 来源：https://github.com/effiezhu0-0/reference-image-scraper
 - 所属业务域：主站营销互动
 - 当前状态：进行中 80%
 
